@@ -29,8 +29,8 @@ Permitted users of dashboards should receive an Outlook invitation from an IR st
 	<img width="650" alt="step5" src="https://github.com/ckaoxvii/quarto_dashboards/assets/46533938/b8c6c153-9ee3-4579-902e-99f4d7c08721">
 </p>
 
-6a. Once inside the CACE folder, click on the **...** icon to open the options menu.
-6b. From the options menu, select **Open**.
+6a. Once inside the CACE folder, click on the **...** icon to open the options menu.<br>
+6b. From the options menu, select **Open**.<br>
 6c. Select **Open in app**.
 <p align='center'>
 	<img width="650" alt="step6" src="https://github.com/ckaoxvii/quarto_dashboards/assets/46533938/a832ec5c-fd25-4a01-bdea-fe27fdcb41ac">
