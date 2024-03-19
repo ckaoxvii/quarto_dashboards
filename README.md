@@ -2,7 +2,7 @@
 
 IR has migrated out of Shinyapps.io and into Microsoft SharePoint for hosting dashboards. With SSO, the stakeholders will no longer required to log into a separate hosting space to access dashboards. This tutorial will demonstrate to users some initial steps required to access dashboards in SharePoint.
 
-Permitted users of dashboards should receive an Outlook invitation from an IR staff to join an IR SharePoint folder. 
+Permitted users of dashboards should receive an Outlook invitation from an IR staff to join an IR SharePoint folder. **Steps 1 through 5 are only required once for getting access to the folder.** To access deashboards in future instances, only steps 6 through 8 are needed.
 
 1. Click **Open** in the invite message.
 <p align='center'>
